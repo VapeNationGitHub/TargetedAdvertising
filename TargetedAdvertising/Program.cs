@@ -30,7 +30,7 @@ namespace TargetedAdvertising
             Process.Start("https:\\kassot.com/b2bito/grobyi/irkutsk");
             Process.Start("https:\\fis.ru/Groby");
             Process.Start("http:\\baston-opt.com/shop/Hrobs/");
-            Thread.Sleep(5000);
+            Thread.Sleep(6000);
 
             Process[] processes = Process.GetProcessesByName("chrome"); // Получим все процессы Google Chrome
 
